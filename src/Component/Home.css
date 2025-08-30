@@ -99,15 +99,15 @@ h1 {
 
 
 
-/*.homepage-cards {
+.homepage-cards {
   display: flex;
-  flex-direction: column;
-  justify-content: center; 
-  width: 100%;
-  padding: 1rem;
-  background: #495E57;
-  background: red; 
-}*/
+  /* flex-direction: column; */
+  /* justify-content: center;  */
+  /* width: 100%; */
+  /* padding: 1rem; */
+  /* background: #495E57; */
+  /* background: red;  */
+}
 
 .homepage-cards {
   background: blueviolet;
