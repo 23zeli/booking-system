@@ -1,0 +1,32 @@
+/*Login page*/
+.login-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    height: 100vh;
+}
+
+.login-form {
+  height: fit-content;
+  width: fit-content;
+}
+
+.login-form input {
+  outline: none;
+  border: 1px solid rgb(118, 118, 118);
+  border-radius: 5px;
+  padding: 2px;
+}
+
+#date-picker {
+    width: 194px;
+}
+
+@media (max-width: 768px) {
+  .login-page {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
