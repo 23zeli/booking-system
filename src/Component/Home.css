@@ -143,21 +143,21 @@ button, #submit {
   margin-top: 1rem;
 }
 
-@media (min-width: 769px) {
-  .homepage-cards {
+/* @media (min-width: 769px) { */
+  /* .homepage-cards { */
     /*display: flex;*/
-    flex-direction: row;
-    justify-content: center;
+    /* flex-direction: row; */
+    /* justify-content: center; */
     /* background: #495E57; */
     /* background: red; */
     /* width: 100%; */
     /* height: auto; */
-    max-height: 406px;
-    margin-bottom: 150px;
-    gap: 50px;
-  }
+    /* max-height: 406px; */
+    /* margin-bottom: 150px; */
+    /* gap: 50px; */
+  /* } */
 
-  .card {
+  /*.card {
   width: 375px;
   }
 
@@ -184,7 +184,7 @@ button, #submit {
     border-radius: 5px;
     margin-top: 16px;
   }
-}
+}*/
 
 /* @media (min-width: 769px) {
   .homepage-cards {
