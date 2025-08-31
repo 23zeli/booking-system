@@ -46,7 +46,7 @@ button, #submit {
 @media (min-width: 769px) {
   .home-cards {
     /*display: flex;*/
-    /* flex-direction: row; */
+    flex-direction: row;
     /* justify-content: center; */
     /* background: #495E57; */
     background: red;
