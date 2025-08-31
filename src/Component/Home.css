@@ -5,6 +5,9 @@
   display: flex;
   flex-direction: column;
 } */
+body{
+  box-sizing: border-box;
+}
 
 .home-cards div h1 {
   color: #F4CE14;
