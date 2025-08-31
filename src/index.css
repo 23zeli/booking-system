@@ -69,4 +69,6 @@ button:focus-visible {
   background: #495E57;
   display: flex;
   flex-direction: column;
+  padding: 1rem;
+  gap: 20px;
 }
