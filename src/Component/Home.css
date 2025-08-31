@@ -109,7 +109,10 @@ h1 {
   /* background: red;  */
 /* } */
 
+
 .homepage-cards {
+  max-width: 768px;
+  width: 100%;
   background: blueviolet;
   display: flex;
   flex-direction: column;
