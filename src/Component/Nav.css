@@ -1,6 +1,7 @@
 nav {
   max-width: 660px;
   width: fit-content;
+  padding-bottom: 0.625rem;
   /* width: 660px; */
   /* padding: 5px; */
 }
