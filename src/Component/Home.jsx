@@ -14,7 +14,7 @@ function Home() {
   return (
     <div className='homepage-container'>
       <div id='homepage' className="homepage">
-        <div className="homepage-cards">
+        <div className="home-cards">
           <div
             className="card text"
             // style={{marginTop: "40px"}}

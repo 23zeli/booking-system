@@ -110,7 +110,7 @@ h1 {
 /* } */
 
 
-.homepage-cards {
+.home-cards {
   max-width: 768px;
   width: 100%;
   background: blueviolet;
@@ -156,7 +156,7 @@ button, #submit {
 }
 
 /* @media (min-width: 769px) { */
-  /* .homepage-cards { */
+  /* .home-cards { */
     /*display: flex;*/
     /* flex-direction: row; */
     /* justify-content: center; */
