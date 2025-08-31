@@ -47,7 +47,8 @@ button, #submit {
   .home-cards {
     /*display: flex;*/
     flex-direction: row;
-    /* justify-content: center; */
+    justify-content: center;
+    align-items: centre;
     /* background: #495E57; */
     background: red;
     /* width: 100%; */
