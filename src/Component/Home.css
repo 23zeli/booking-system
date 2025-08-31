@@ -118,11 +118,11 @@ h1 {
   flex-direction: column;
 }
 
-.homepage-cards div h1 {
+.home-cards div h1 {
   color: #F4CE14;
 }
 
-.homepage-cards div h2 {
+.home-cards div h2 {
   color: white;
   margin-bottom: 8px;
 }
@@ -173,12 +173,12 @@ button, #submit {
   width: 375px;
   }
 
-  .homepage-cards div {
+  .home-cards div {
     margin: 0;
     text-align: left;
   }
 
-  .homepage-cards div h2 {
+  .home-cards div h2 {
     margin-bottom: 8px;
   }
 
@@ -199,7 +199,7 @@ button, #submit {
 }
 
 /* @media (min-width: 769px) {
-  .homepage-cards {
+  .home-cards {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -215,12 +215,12 @@ button, #submit {
   width: 375px;
   }
 
-  .homepage-cards div {
+  .home-cards div {
     margin: 0;
     text-align: left;
   }
 
-  .homepage-cards div h2 {
+  .home-cards div h2 {
     margin-bottom: 8px;
   }
 
