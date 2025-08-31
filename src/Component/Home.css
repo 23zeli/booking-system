@@ -110,13 +110,13 @@ h1 {
 /* } */
 
 
-.home-cards {
+/* .home-cards {
   max-width: 768px;
   width: 100%;
   background: blueviolet;
   display: flex;
   flex-direction: column;
-}
+} */
 
 .home-cards div h1 {
   color: #F4CE14;
