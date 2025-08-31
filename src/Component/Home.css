@@ -45,17 +45,13 @@ button, #submit {
 
 @media (min-width: 769px) {
   .home-cards {
-    /*display: flex;*/
     flex-direction: row;
     justify-content: center;
     align-items: centre;
-    /* background: #495E57; */
-    background: red;
-    /* width: 100%; */
-    /* height: auto; */
-    /* max-height: 406px; */
-    /* margin-bottom: 150px; */
-    /* gap: 50px; */
+    background: #495E57;
+    max-height: 406px;
+    margin-bottom: 150px;
+    gap: 50px;
   }
 
   .card {
