@@ -1,7 +1,8 @@
+
 nav {
   max-width: 660px;
   width: fit-content;
-  padding-bottom: 0.625rem;
+  /* padding-bottom: 0.625rem; */
   /* width: 660px; */
   /* padding: 5px; */
 }
@@ -112,7 +113,7 @@ li {
 .nav a:hover {
   /* color: whitesmoke; */
   background-color: whitesmoke;
-  /* padding: 2px; */
+  padding: 2px;
   border-radius: 15px;
 }
 
