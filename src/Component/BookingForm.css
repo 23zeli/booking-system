@@ -118,6 +118,7 @@ form {
   font-weight: 500;
   display: block;
   margin-bottom: 5px;
+  background: none;
 }
 
 .input-box input, #occasion, #res-time {
