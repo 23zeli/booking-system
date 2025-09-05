@@ -118,7 +118,6 @@ form {
   font-weight: 500;
   display: block;
   margin-bottom: 5px;
-  background: none;
 }
 
 .input-box input, #occasion, #res-time {
@@ -130,6 +129,7 @@ form {
   padding-left: 15px;
   font-size: 16px;
   border-bottom-width: 2px;
+  background: none;
 }
 
 .submit{
