@@ -85,7 +85,7 @@ fieldset {
 
 .form-container {
   display: flex;
-  /* height: 100vh; */
+  height: 82vh;
   justify-content: center;
   align-items: center;
   /* background: aquamarine; */
