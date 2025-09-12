@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from 'react';
+import React, { useState, useReducer } from 'react';
 import BookingForm from './BookingForm';
 
 const availableTimesReducer = (state, action) => {
@@ -10,7 +10,7 @@ const availableTimesReducer = (state, action) => {
   }
 };
 
-const initializeTimes = () => {
+export const initializeTimes = () => {
   return [
     '17:00',
     '18:00',
