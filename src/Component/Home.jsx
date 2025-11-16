@@ -1,6 +1,8 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
-import foodImage from '../assets/images/restauranfood.jpg';
+import desktopFood from '../assets/images/restauranfood.webp';
+import mobFood from '../assets/images/restauranfood-768.webp';
+
 import './Home.css'
 import Specials from './Specials';
 
@@ -44,7 +46,10 @@ function Home() {
             <button onClick={handleReserveTable}>Reserve a table</button>
           </div>
           <div className="card restaurant-image">
-              <img id='img-restaurantFood' src={foodImage} alt="Restaurant Food" />
+            <picture>
+              <source media='max-width: 768px' srcSet={mobFood}/>
+              <img id='img-restaurantFood' src={desktopFood} alt="Restaurant Food" />
+            </picture>
           </div>
         </div>
       </div>
